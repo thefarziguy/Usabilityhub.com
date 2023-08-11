@@ -100,7 +100,7 @@
   }
   .features-section {
     background-image: none;
-    margin: 0;
+    margin: 5px;
   }
   .features-card {
     min-width: 100%;
